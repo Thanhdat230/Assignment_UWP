@@ -1,0 +1,34 @@
+﻿<Page
+    x:Class="ContactPhone.DetailContact"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ContactPhone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0">
+            <TextBlock FontSize="30" Text="Contacts Detail" TextAlignment="Center" />
+        </StackPanel>
+
+        <Grid Grid.Row="1">
+            <StackPanel>
+                <TextBox Name="txtName" Header="Name" Margin="8"/>
+                <TextBox Name="txtPhoneNumber" 
+                         Margin="8"
+                         Header="Phone Number"/>
+                <Button Content="Update" Margin="8" Name="btnUpdate"
+                        HorizontalAlignment="Stretch" Click="btnUpdate_Click" />
+                <Button Content="Delete" Margin="8" Name="btnDelte"
+                        HorizontalAlignment="Stretch" Background="Red" Click="btnDelte_Click"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Page>
