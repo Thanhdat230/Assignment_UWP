@@ -13,5 +13,8 @@
             <TextBlock FontSize="30" Text="News" TextAlignment="Center"/>
             <Button Margin="0.5" Content="Back" Click="Button_Click"/>
         </StackPanel>
+        <TextBlock FontSize="24" 
+                   Text="Thank you for coming over, wishing you a good day."
+                   Margin="200"/>
     </Grid>
 </Page>

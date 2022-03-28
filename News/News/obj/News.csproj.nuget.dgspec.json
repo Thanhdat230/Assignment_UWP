@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thdat\\OneDrive\\Documents\\Fpt Aptech T2010M\\Sem 3\\Window Form Programing\\Assignment\\News\\News\\News.csproj": {}
+    "C:\\Users\\thdat\\OneDrive\\Documents\\Fpt Aptech T2010M\\Sem 3\\Window Form Programing\\Assignment_UWP\\News\\News\\News.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thdat\\OneDrive\\Documents\\Fpt Aptech T2010M\\Sem 3\\Window Form Programing\\Assignment\\News\\News\\News.csproj": {
+    "C:\\Users\\thdat\\OneDrive\\Documents\\Fpt Aptech T2010M\\Sem 3\\Window Form Programing\\Assignment_UWP\\News\\News\\News.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thdat\\OneDrive\\Documents\\Fpt Aptech T2010M\\Sem 3\\Window Form Programing\\Assignment\\News\\News\\News.csproj",
+        "projectUniqueName": "C:\\Users\\thdat\\OneDrive\\Documents\\Fpt Aptech T2010M\\Sem 3\\Window Form Programing\\Assignment_UWP\\News\\News\\News.csproj",
         "projectName": "News",
-        "projectPath": "C:\\Users\\thdat\\OneDrive\\Documents\\Fpt Aptech T2010M\\Sem 3\\Window Form Programing\\Assignment\\News\\News\\News.csproj",
+        "projectPath": "C:\\Users\\thdat\\OneDrive\\Documents\\Fpt Aptech T2010M\\Sem 3\\Window Form Programing\\Assignment_UWP\\News\\News\\News.csproj",
         "packagesPath": "C:\\Users\\thdat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thdat\\OneDrive\\Documents\\Fpt Aptech T2010M\\Sem 3\\Window Form Programing\\Assignment\\News\\News\\obj\\",
+        "outputPath": "C:\\Users\\thdat\\OneDrive\\Documents\\Fpt Aptech T2010M\\Sem 3\\Window Form Programing\\Assignment_UWP\\News\\News\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
